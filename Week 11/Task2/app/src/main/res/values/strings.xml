@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Library</string>
+    <string name="movie_name">Movie - </string>
+    <string name="movie_end">has been added</string>
+    <string name="navigation_drawer_open">drawer is now open</string>
+    <string name="navigation_drawer_close">drawer is now close</string>
+</resources>

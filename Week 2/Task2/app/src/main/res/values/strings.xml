@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Library</string>
+    <string name="movie_name">Movie - </string>
+    <string name="movie_end">has been added</string>
+</resources>
